@@ -1,5 +1,6 @@
 import streamlit 
 import pandas as pd
+import snowflake.connector
 
 streamlit.title("Snowflake Learning to capture data from apis")
 
